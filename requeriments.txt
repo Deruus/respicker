@@ -1,7 +1,8 @@
+Brotli==1.0.7
 certifi==2019.3.9
 chardet==3.0.4
 dj-database-url==0.5.0
-Django==1.8.19
+Django==2.2.1
 django-crispy-forms==1.4.0
 django-durationfield==0.5.1
 gunicorn==19.9.0
@@ -14,4 +15,4 @@ requests==2.21.0
 six==1.12.0
 sqlparse==0.3.0
 urllib3==1.24.3
-whitenoise==4.1.2
+whitenoise==3.3.1
